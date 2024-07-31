@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\GD_GhiAmThanh.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\GD_GhiAmThanh.exe
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\GD_GhiAmThanh.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\NAudio.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\DAL.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\bin\Debug\NAudio.xml
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\obj\Debug\GD_GhiAmThanh.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\obj\Debug\GD_GhiAmThanh.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\obj\Debug\GD_GhiAmThanh.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\obj\Debug\GD_GhiAmThanh.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\obj\Debug\GD_GhiAmThanh.exe
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\GD_GhiAmThanh\obj\Debug\GD_GhiAmThanh.pdb

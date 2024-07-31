@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DTO\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DTO\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DTO\obj\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\bin\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\bin\Debug\DAL.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\obj\Debug\DAL.dll
+c:\users\admin\documents\visual studio 2012\Projects\GhiAmThanh\DAL\obj\Debug\DAL.pdb
